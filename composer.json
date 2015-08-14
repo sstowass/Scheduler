@@ -1,5 +1,5 @@
 {
-    "name": "ttree/scheduler",
+    "name": "sstowass/scheduler",
     "type": "typo3-flow-package",
     "description": "Simple task scheduler for TYPO3 Flow package",
     "require": {
